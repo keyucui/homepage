@@ -11,4 +11,4 @@ Hello! I am Keyu Cui, a third-year PhD student in Management Science and Enginee
 
 I have received an invitation to revise a paper for MIS Quarterly and am preparing several other manuscripts for submission to top journals in Information Systems and general Science fields.
 
-You can find my CV here: [Keyu's Curriculum Vitae](../assets/CV-cui.pdf)
+You can find my CV here: [Keyu's Curriculum Vitae](../homepage/assets/CV-cui.pdf)
