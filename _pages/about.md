@@ -13,7 +13,7 @@ My research interests include digital economics, social media platforms, and AI 
 
 My work has received revision opportunities at **MIS Quarterly**, **Nature Communications**, and **Information Systems Research**.
 
-You can find my CV here: [Curriculum Vitae](../homepage/assets/CV-cui.pdf). Feel free to contact me via email at **cuikeyu123@outlook.com**
+You can find my CV [here](../homepage/assets/CV-cui.pdf). Feel free to contact me via email at **cuikeyu123@outlook.com**
 
 ---
 
