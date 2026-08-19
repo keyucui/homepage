@@ -36,7 +36,7 @@ Can Early Access Accelerate Views? The Impact of Time-Based Priority Service on 
 
 4. Chenze Wang, **Keyu Cui**, Shan Liu, Xitong Li.
 The Double-Edged Impact of Generative AI on Online Reputation Management: Evidence from Online Creative Communities.
-*Manufacturing & Service Operations Management*, under review.
+*Manufacturing & Service Operations Management*, to be submitted.
 <span style="color:gray">[UTD 24]</span>
 
 ---
