@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Keyu Cui**, a fourth-year PhD student in Management Science and Engineering at Xi'an Jiaotong University. I participated in a joint program with HEC Paris from 2024 to 2025, advised by [Xitong Li](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong) and [Shan Liu](http://gr.xjtu.edu.cn/web/shanliu). Prior to that, I received my bachelor’s degree in Computer Science and Finance from University of Electronic Science and Technology of China in 2020.
+Hello! I am **Keyu Cui**, a fourth-year PhD student in Information Systems at Xi'an Jiaotong University. I participated in a joint program with HEC Paris from 2024 to 2025, advised by [Xitong Li](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/li-xitong) and [Shan Liu](http://gr.xjtu.edu.cn/web/shanliu). Prior to that, I received my bachelor’s degree in Computer Science and Finance from University of Electronic Science and Technology of China in 2020.
 
-My research interests include digital economics, social media platforms, and AI technology. More recently, my work has expanded to AI for Science and Social Science, examining how AI reshapes scientific innovation and production.
+My research focuses on digital platforms, AI and technology adoption, user-generated content, and digital content pricing. More recently, I have expanded my research to AI for Science and Social Science, exploring how AI transforms scientific innovation, collaboration, and knowledge production.
 
 My work has received revision opportunities at **MIS Quarterly**, **Nature Communications**, and **Information Systems Research**.
 
-You can find my CV [here](../homepage/assets/CV-cui.pdf). Feel free to contact me via email at **cuikeyu123@outlook.com**
+You can find my CV [here](../homepage/assets/CV-cui.pdf). Feel free to contact me at **cuikeyu123@outlook.com**
 
 ---
 
