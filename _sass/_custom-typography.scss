@@ -61,6 +61,11 @@ h3 {
 
 .page__content p {
   margin-bottom: 1.15rem;
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 /* Use the same academic serif face across desktop navigation and sidebar. */
