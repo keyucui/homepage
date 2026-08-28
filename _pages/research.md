@@ -68,26 +68,38 @@ author_profile: false
   </li>
 </ol>
 
-## Work in progress
+## Publications
+
+<ol class="research-list">
+  <li>
+    <span class="paper-title">When Platforms Integrate Generative AI: The Dynamics of Professional Contribution in Artist Communities</span>
+    <span class="paper-authors"><strong>Keyu Cui</strong>, Chenze Wang, and Shan Liu</span>
+    <span class="paper-status"><em>Internet Research</em>, forthcoming.</span>
+  </li>
+
+  <li>
+    <span class="paper-title">The Dual Faces of Cultural Heterogeneity in Firm Growth: Evidence from Large-Scale Employee Reviews</span>
+    <span class="paper-authors">Muyu Zhang, Shan Liu, Baojun Gao, <strong>Keyu Cui</strong>, and Guangsen Si</span>
+    <span class="paper-status"><em>Journal of Business Research</em>, 205, 115907, 2026.</span>
+  </li>
+</ol>
+
+## Work in Progress
 
 <ol class="research-list">
   <li>
     <span class="paper-title">Atypical AI Adoption and Pivot in Research</span>
-    <span class="paper-status">Ongoing project</span>
   </li>
 
   <li>
     <span class="paper-title">Detecting Misinformation Through Inference-Relation Inconsistency: A Multi-Graph Neural Network Approach</span>
-    <span class="paper-status">Ongoing project</span>
   </li>
 
   <li>
     <span class="paper-title">Measuring Citation Hallucination Risks at Scale in the LLM Era</span>
-    <span class="paper-status">Ongoing project</span>
   </li>
 
   <li>
     <span class="paper-title">Open but Incomplete: Scholarly Record Gaps Shape Scientific Claim Hallucinations in Generative AI</span>
-    <span class="paper-status">Ongoing project</span>
   </li>
 </ol>
