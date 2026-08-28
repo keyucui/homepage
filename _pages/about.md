@@ -37,13 +37,14 @@ My research focuses on digital platforms, AI and technology adoption, user-gener
 
 My work has received revision opportunities at **MIS Quarterly**, **Nature Communications**, and **Information Systems Research**.
 
-Feel free to contact me at **cuikeyu123@outlook.com**
+Feel free to contact me at [cuikeyu123@outlook.com](mailto:cuikeyu123@outlook.com)
 
+--
 
 <figure class="research-agenda">
   <a href="{{ '/images/research-agenda.png' | relative_url }}">
     <img src="{{ '/images/research-agenda.png' | relative_url }}" alt="Keyu Cui's research agenda covering digital platforms, AI technologies, and AI for science and innovation">
   </a>
-  <figcaption>My research agenda: Digital Platforms, AI Technologies, and AI for Science / Innovation.</figcaption>
+  <figcaption>Research Agenda</figcaption>
 </figure>
 
