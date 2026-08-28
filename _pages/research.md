@@ -40,7 +40,7 @@ author_profile: false
 }
 </style>
 
-## Working Papers Under Review
+## Working Papers Under Revision/Review
 
 <ol class="research-list">
   <li>
@@ -65,5 +65,29 @@ author_profile: false
     <span class="paper-title">The Double-Edged Impact of Generative AI on Online Reputation Management: Evidence from Online Creative Communities</span>
     <span class="paper-authors">Chenze Wang, <strong>Keyu Cui</strong>, Shan Liu, and Xitong Li</span>
     <span class="paper-status"><em>Manufacturing &amp; Service Operations Management</em>, to be submitted. <span class="paper-tag">[UTD 24]</span></span>
+  </li>
+</ol>
+
+## Work in progress
+
+<ol class="research-list">
+  <li>
+    <span class="paper-title">Atypical AI Adoption and Pivot in Research</span>
+    <span class="paper-status">Ongoing project</span>
+  </li>
+
+  <li>
+    <span class="paper-title">Detecting Misinformation Through Inference-Relation Inconsistency: A Multi-Graph Neural Network Approach</span>
+    <span class="paper-status">Ongoing project</span>
+  </li>
+
+  <li>
+    <span class="paper-title">Measuring Citation Hallucination Risks at Scale in the LLM Era</span>
+    <span class="paper-status">Ongoing project</span>
+  </li>
+
+  <li>
+    <span class="paper-title">Open but Incomplete: Scholarly Record Gaps Shape Scientific Claim Hallucinations in Generative AI</span>
+    <span class="paper-status">Ongoing project</span>
   </li>
 </ol>
