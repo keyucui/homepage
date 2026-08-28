@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -29,7 +29,6 @@
 @import "syntax";
 
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
@@ -38,4 +37,8 @@
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+
+/* Load custom rules after the theme so that they reliably override it. */
+@import "custom-typography";
+
 @import "print";
