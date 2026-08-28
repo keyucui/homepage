@@ -63,19 +63,27 @@ h3 {
   margin-bottom: 1.15rem;
 }
 
-/* Keep compact interface elements in a clean sans-serif face. */
+/* Use the same academic serif face across desktop navigation and sidebar. */
 .masthead__inner-wrap,
 .greedy-nav,
 .sidebar,
 .author__name,
 .author__bio,
 .author__urls-wrapper,
-.author__urls {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+.author__urls,
+.page__content,
+.page__content dt,
+.page__content dd,
+.archive__item-title,
+.archive__item-excerpt,
+.page__meta,
+.page__footer {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .masthead__menu-item a {
   font-size: 0.96rem;
+  letter-spacing: 0;
 }
 
 /* Long research titles should wrap inside the viewport, never widen the page. */
@@ -124,4 +132,3 @@ h3 {
     margin-bottom: 1.25rem;
   }
 }
-
