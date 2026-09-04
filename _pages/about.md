@@ -39,7 +39,7 @@ Across these projects, I primarily combine large-scale observational data with c
 
 My work has received revision opportunities at **MIS Quarterly**, **Nature Communications**, and **Information Systems Research**.
 
-Feel free to contact me by [email](mailto:cuikeyu123@outlook.com).
+Feel free to contact me at [cuikeyu123@outlook.com](mailto:cuikeyu123@outlook.com).
 
 
 <figure class="research-agenda">
