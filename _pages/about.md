@@ -42,10 +42,8 @@ My work has received revision opportunities at **MIS Quarterly**, **Nature Commu
 Feel free to contact me at [cuikeyu123@outlook.com](mailto:cuikeyu123@outlook.com).
 
 
-<figure class="research-agenda">
-  <a href="{{ '/images/research-agenda.png' | relative_url }}">
-    <img src="{{ '/images/research-agenda.png' | relative_url }}" alt="Keyu Cui's research agenda covering digital platforms, AI technologies, and AI for science and innovation">
-  </a>
-  <!-- <figcaption>Research Agenda</figcaption> -->
-</figure>
 
+<figure class="research-agenda">
+  <img src="/homepage/images/research-agenda.svg"
+       alt="Keyu Cui Research Agenda">
+</figure>
