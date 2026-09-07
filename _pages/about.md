@@ -44,6 +44,6 @@ Feel free to contact me at [cuikeyu123@outlook.com](mailto:cuikeyu123@outlook.co
 
 
 <figure class="research-agenda">
-  <img src="{{ '/images/research-agenda.svg' | relative_url }}"
+  <img src="{{ '/images/research-agenda.png' | relative_url }}"
        alt="Keyu Cui Research Agenda">
 </figure>
